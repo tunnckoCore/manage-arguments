@@ -1,0 +1,19 @@
+{
+  "name": "manage-arguments",
+  "version": "0.0.0",
+  "description": "Prevents arguments leakage - managing arguments. From Optimization killers by Petka Antonov.",
+  "repository": "tunnckoCore/manage-arguments",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "is-arguments": "^1.0.1"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0"
+  },
+  "keywords": []
+}
