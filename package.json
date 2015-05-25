@@ -15,5 +15,17 @@
   "devDependencies": {
     "assertit": "^0.1.0"
   },
-  "keywords": []
+  "keywords": [
+    "args",
+    "arguments",
+    "argv",
+    "argz",
+    "killers",
+    "leakage",
+    "manage",
+    "optimise",
+    "optimization",
+    "petkaantonov",
+    "prevent"
+  ]
 }
