@@ -27,6 +27,14 @@ console.log(fixture(1, 2, 3, {foo: 'bar'}))
 ```
 
 
+## See also
+- [bluebird](https://github.com/petkaantonov/bluebird): Full featured Promises/A+ implementation with exceptionally good performance
+- [handle-arguments](https://github.com/hybridables/handle-arguments#readme): Handles given Arguments object - return separatly last argument (commonly callback) and other arguments as… [more](https://github.com/hybridables/handle-arguments#readme)
+- [handle-callback](https://github.com/hybridables/handle-callback): Initial step for creating hybrid APIs, used by `hybridify`. Handle callback in promise - give… [more](https://github.com/hybridables/handle-callback)
+- [hybridify](https://github.com/hybridables/hybridify#readme): Building hybrid APIs. You can use both callback and promise in same time.  Like… [more](https://github.com/hybridables/hybridify#readme)
+- [Optimization killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments) by [@petkaantonov](https://github.com/petkaantonov)
+
+
 ## Contributing
 
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/tunnckoCore/manage-arguments/issues/new).
