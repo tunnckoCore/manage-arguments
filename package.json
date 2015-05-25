@@ -1,6 +1,6 @@
 {
   "name": "manage-arguments",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prevents arguments leakage - managing arguments. From Optimization killers by Petka Antonov.",
   "repository": "tunnckoCore/manage-arguments",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
